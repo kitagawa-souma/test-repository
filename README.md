@@ -1,2 +1,3 @@
-# test-repository
-テスト用のリポジトリです。
+﻿# test-repository
+テスト用リポジトリです。
+test
